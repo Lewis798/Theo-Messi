@@ -2,7 +2,7 @@
 ```
 吾志所向，一往无前。
 ```
-<!-- <a><img align="right" z width="50%" alt="GIF" src="https://m.theovan.cn/img/2016-05-15_iOd_ij.gif" /></a> -->
+<!-- <a><img align="right" z width="50%" alt="GIF" src="https://i.theovan.cn/img/2016-05-15_iOd_ij.gif" /></a> -->
 <a><img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Theo-messi&show_icons=true&" /></a>
 
 - ![Static Badge](https://img.shields.io/badge/Javascript-3a3c3b?style=flat-square&logo=Javascript&labelColor=3a3c3b)
@@ -26,8 +26,8 @@
 
 ## 赞助
 
-[![Alipay](https://img.shields.io/badge/Alipay-3a3c3b?style=flat-square&logo=Alipay&labelColor=3a3c3b)](https://m.theovan.cn/docs/202405201752089.jpg)
-[![Wechat](https://img.shields.io/badge/Wechat-3a3c3b?style=flat-square&logo=Wechat&labelColor=3a3c3b)](https://m.theovan.cn/docs/202405201752087.jpg)
+[![Alipay](https://img.shields.io/badge/Alipay-3a3c3b?style=flat-square&logo=Alipay&labelColor=3a3c3b)](https://i.theovan.cn/docs/202405201752089.jpg)
+[![Wechat](https://img.shields.io/badge/Wechat-3a3c3b?style=flat-square&logo=Wechat&labelColor=3a3c3b)](https://i.theovan.cn/docs/202405201752087.jpg)
 [![github](https://img.shields.io/badge/Github-Sponsors-3a3c3b?style=flat-square&logo=githubsponsors&labelColor=3a3c3b)](https://github.com/sponsors/Theo-messi)
 
-<img width="360" src="https://m.theovan.cn/docs/202405201759098.jpg" alt='Sponsors'></a>
+<img width="360" src="https://i.theovan.cn/docs/202405201759098.jpg" alt='Sponsors'></a>
