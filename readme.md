@@ -2,32 +2,45 @@
 ```
 吾志所向，一往无前。
 ```
-<!-- <a><img align="right" z width="50%" alt="GIF" src="https://i.theovan.cn/img/2016-05-15_iOd_ij.gif" /></a> -->
-<a><img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Theo-messi&show_icons=true&" /></a>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="260" align="right" alt="">
 
-- ![Static Badge](https://img.shields.io/badge/Javascript-3a3c3b?style=flat-square&logo=Javascript&labelColor=3a3c3b)
-![Static Badge](https://img.shields.io/badge/TypeScript-3a3c3b?style=flat-square&logo=TypeScript&labelColor=3a3c3b)
-![Static Badge](https://img.shields.io/badge/HTML5-3a3c3b?style=flat-square&logo=html5&labelColor=3a3c3b)
-- ![Static Badge](https://img.shields.io/badge/Node.js-3a3c3b?style=flat-square&logo=node.js&labelColor=3a3c3b)
-![Static Badge](https://img.shields.io/badge/Next.js-3a3c3b?style=flat-square&logo=next.js&labelColor=3a3c3b)
-![Static Badge](https://img.shields.io/badge/Vue.js-3a3c3b?style=flat-square&logo=vue.js&labelColor=3a3c3b)
-![Static Badge](https://img.shields.io/badge/Vitepress-3a3c3b?style=flat-square&logo=vite&labelColor=3a3c3b)
-- ![Static Badge](https://img.shields.io/badge/NPM-3a3c3b?style=flat-square&logo=NPM&labelColor=3a3c3b)
-![Static Badge](https://img.shields.io/badge/PNPM-3a3c3b?style=flat-square&logo=PNPM&labelColor=3a3c3b)
-![Static Badge](https://img.shields.io/badge/YARN-3a3c3b?style=flat-square&logo=YARN&labelColor=3a3c3b)
-![Static Badge](https://img.shields.io/badge/Git-3a3c3b?style=flat-square&logo=git&labelColor=3a3c3b)
-- ![Static Badge](https://img.shields.io/badge/Oracle-3a3c3b?style=flat-square&logo=Oracle&labelColor=3a3c3b)
-![Static Badge](https://img.shields.io/badge/Google_Cloud-3a3c3b?style=flat-square&logo=googlecloud&labelColor=3a3c3b)
-![Static Badge](https://img.shields.io/badge/Markdown-3a3c3b?style=flat-square&logo=markdown&labelColor=3a3c3b)
+**About Me:** 
+|   主&emsp;&emsp;页   | <https://www.theovan.cn>                                      |
+| :------------: | :------------------------------------------------------- |
+| **博&emsp;&emsp;客** | **<https://doc.theovan.cn>**                            |
+| **玄学宝典** | **<https://xx.theovan.cn>**          |
 
 
-- :memo: [我的主页](https://www.theovan.cn)｜[科学上网/奈飞观看/流媒体机场分享](https://doc.theovan.cn)｜[SMS海外接码平台](https://sms-activate.org/?ref=8170513)｜[阿里云盘资源分享](https://share.theovan.cn/)
+**Languages:**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=333)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=fff)
+
+**Frameworks and Tools:**
+
+![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=333)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=Next.js&logoColor=fff)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=fff)
+![Sass](https://img.shields.io/badge/Sass-CC6699?logo=Sass&logoColor=fff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=TailwindCSS&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=fff)
+![Visual Studio Code](https://img.shields.io/badge/VS%20CODE-007ACC?logo=VisualStudioCode&logoColor=fff)
+
+**GitHub Stats:**
+
+![github stats](https://github-readme-stats.vercel.app/api?username=Theo-Messi&show_icons=true&hide_title=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theo-Messi&layout=compact)
+
+
+- :memo: [SMS海外接码平台](https://sms-activate.org/?ref=8170513)｜[阿里云盘资源分享](https://share.theovan.cn/)
 - :pushpin:[FlyingBird](https://fbinv01.fbaff.cc/auth/register?code=RZP3)｜[Bridge the Wise](https://patriot.ninja/aff.php?aff=1471)｜[蜜糖商店](https://metshop.cn?referrerUserNo=MTU51076)｜[奈飞小铺](https://ihezu.love/UKTer6)｜[银河录像局](https://nf.video/kaIuE)
 
-## 赞助
+**赞 助**
 
 [![Alipay](https://img.shields.io/badge/Alipay-3a3c3b?style=flat-square&logo=Alipay&labelColor=3a3c3b)](https://i.theovan.cn/docs/202405201752089.jpg)
 [![Wechat](https://img.shields.io/badge/Wechat-3a3c3b?style=flat-square&logo=Wechat&labelColor=3a3c3b)](https://i.theovan.cn/docs/202405201752087.jpg)
-[![github](https://img.shields.io/badge/Github-Sponsors-3a3c3b?style=flat-square&logo=githubsponsors&labelColor=3a3c3b)](https://github.com/sponsors/Theo-messi)
+[![github](https://img.shields.io/badge/Github-Sponsors-3a3c3b?style=flat-square&logo=githubsponsors&labelColor=3a3c3b)](https://github.com/sponsors/Theo-Messi)
 
 <img width="360" src="https://i.theovan.cn/docs/202405201759098.jpg" alt='Sponsors'></a>
