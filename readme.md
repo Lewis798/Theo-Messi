@@ -35,7 +35,7 @@
 
 
 - :memo: [SMS海外接码平台](https://sms-activate.org/?ref=8170513)｜[阿里云盘资源分享](https://share.theovan.cn/)
-- :pushpin:[FlyingBird](https://fbinv01.fbaff.cc/auth/register?code=RZP3)｜[Bridge the Wise](https://patriot.ninja/aff.php?aff=1471)｜[蜜糖商店](https://metshop.cn?referrerUserNo=MTU51076)｜[奈飞小铺](https://ihezu.love/UKTer6)｜[银河录像局](https://nf.video/kaIuE)
+- :pushpin:[FlyingBird](https://fbinv01.fbaff.cc/auth/register?code=RZP3)｜[Bridge the Wise](https://patriot.ninja/aff.php?aff=1471)｜[飞兔云](https://飞兔云.site/index.html?register=2cFF8mg4)｜[奈飞小铺](https://ihezu.love/UKTer6)｜[银河录像局](https://nf.video/kaIuE)
 
 **赞 助**
 
