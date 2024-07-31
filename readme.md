@@ -5,10 +5,10 @@
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="260" align="right" alt="">
 
 **About Me:** 
-|   主&emsp;&emsp;页   | <https://www.theovan.cn>                                      |
+|   主&emsp;&emsp;页   | <https://theojs.cn>                                      |
 | :------------: | :------------------------------------------------------- |
-| **博&emsp;&emsp;客** | **<https://doc.theovan.cn>**                            |
-| **玄学宝典** | **<https://xx.theovan.cn>**          |
+| **博&emsp;&emsp;客** | **<https://doc.theojs.cn>**                            |
+| **玄学宝典** | **<https://xx.theojs.cn>**          |
 
 
 **Languages:**
@@ -34,7 +34,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theo-Messi&layout=compact)
 
 
-- :memo: [SMS海外接码平台](https://sms-activate.org/?ref=8170513)｜[阿里云盘资源分享](https://share.theovan.cn/)
+- :memo: [SMS海外接码平台](https://sms-activate.org/?ref=8170513)｜[阿里云盘资源分享](https://share.theojs.cn/)
 - :pushpin:[FlyingBird](https://fbinv01.fbaff.cc/auth/register?code=RZP3)｜[Bridge the Wise](https://patriot.ninja/aff.php?aff=1471)｜[飞兔云](https://飞兔云.site/index.html?register=2cFF8mg4)｜[奈飞小铺](https://ihezu.love/UKTer6)｜[银河录像局](https://nf.video/kaIuE)
 
 **赞 助**
@@ -43,4 +43,4 @@
 [![Wechat](https://img.shields.io/badge/Wechat-3a3c3b?style=flat-square&logo=Wechat&labelColor=3a3c3b)](https://i.theovan.cn/docs/202405201752087.jpg)
 [![github](https://img.shields.io/badge/Github-Sponsors-3a3c3b?style=flat-square&logo=githubsponsors&labelColor=3a3c3b)](https://github.com/sponsors/Theo-Messi)
 
-<img width="360" src="https://i.theovan.cn/docs/202405201759098.jpg" alt='Sponsors'></a>
+<img width="360" src="https://i.theojs.cn/docs/202405201759098.jpg" alt='Sponsors'></a>
