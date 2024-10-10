@@ -38,10 +38,4 @@
 - :memo: [SMS海外接码平台](https://sms-activate.io/?ref=8170513)｜[阿里云盘资源分享](https://share.theojs.cn/)
 - :pushpin: [青云梯](https://ivt01.qytaff.cc/register?aff=jjgD79Jd)｜[FlyingBird](https://fbinv02.fbaff.cc/auth/register?code=RZP3)｜[Bridge the Wise](https://patriot.ninja/aff.php?aff=1471)｜[飞兔云](https://xn--9kq10e0y7h.site/index.html?register=2cFF8mg4)｜[奈飞小铺](https://ihezu.love/UKTer6)｜[银河录像局](https://nf.video/kaIuE)
 
-**赞 助**
-
-[![Alipay](https://img.shields.io/badge/Alipay-3a3c3b?style=flat-square&logo=Alipay&labelColor=3a3c3b)](https://i.theojs.cn/docs/202405201752089.jpg)
-[![Wechat](https://img.shields.io/badge/Wechat-3a3c3b?style=flat-square&logo=Wechat&labelColor=3a3c3b)](https://i.theojs.cn/docs/202405201752087.jpg)
-[![github](https://img.shields.io/badge/Github-Sponsors-3a3c3b?style=flat-square&logo=githubsponsors&labelColor=3a3c3b)](https://github.com/sponsors/Theo-Messi)
-
 <img width="360" src="https://i.theojs.cn/docs/202405201759098.jpg" alt='Sponsors'></a>
